@@ -5,4 +5,4 @@ Hola Amigos, I'm Irakli  from Tbilisi, Georgia   🤘
 - 🤔 Looking for full time job for fall or summer internship
 - 📫 How to reach me: <a href="mailto:igrigolia@wpi.edu">Let's get in touch</a>
 - 🍷 Fun fact: <a href="https://www.nationalgeographic.com/travel/destinations/asia/georgia/sponsor-content-secret-birthplace-of-wine/"> World's oldest wine was found in 8,000-year-old jars in Georgia.</a>
-- ![profile views](https://rushter.com/counter.svg)
+- ![profile views](https://www.facebook.com/messenger_media/?thread_id=1786543497&attachment_id=573818513658269&message_id=mid.%24cAAAAAGp8fYmB9z6nRF7xflWpLUPo)
