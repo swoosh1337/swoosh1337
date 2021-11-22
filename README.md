@@ -1,4 +1,4 @@
-Hola Amigos, I'm Irakli  from Tbilisi, Georgia   🤘
+Hola Amigos, I'm Irakli  from Tbilisi, Georgia  
 
 - 🎓 Computer Science Master's student at Worcester Polytechnic Institute
 - 💻 Interested in A.I,Penetration Testing,and BLockchain technologies
