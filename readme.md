@@ -11,7 +11,7 @@ In the era of vibe-coding, I  believe that every software engineer needs a stron
 
 ---
 
-### 🛠 &nbsp;Languages & Tools
+### 🛠 Languages & Tools
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="45" height="45"/>&nbsp;
@@ -20,8 +20,12 @@ In the era of vibe-coding, I  believe that every software engineer needs a stron
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" width="45" height="45"/>&nbsp;
-<img src="https://avatars.githubusercontent.com/u/34694075?s=200&v=4" title="gRPC" width="45" height="45"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-or
+<img src="https://raw.githubusercontent.com/grpc/grpc/master/doc/images/grpc_logo.png" title="gRPC" width="70" height="35"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/ProtocolBuffers.png" title="Protocol Buffers" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="45" height="45"/>&nbsp;
+</p>
