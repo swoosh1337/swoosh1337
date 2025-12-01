@@ -36,8 +36,6 @@ In the era of vibe-coding, I  believe that every software engineer needs a stron
 
   <!-- gRPC & Protocol Buffers -->
   <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/grpc/icon/color/grpc-icon-color.svg" alt="gRPC" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/protocolbuffers/protobuf/main/docs/protobuf-logo.svg" alt="Protocol Buffers" width="45" height="45"/>&nbsp;&nbsp;
-
   <!-- Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 
