@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Irakli (Tazi)** — a self-driven software engineer who loves systems, backend architecture, and understanding how things *actually* work under the hood.
+I'm **Irakli (Tazi)** — a software engineer who loves systems, backend architecture, and understanding how things *actually* work under the hood.
 
 These days I work with **Go, Scala, Python, React, and AWS** to build scalable services.
 
