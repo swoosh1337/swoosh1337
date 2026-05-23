@@ -4,6 +4,7 @@ I'm **Tazi** — a software engineer who loves systems, backend architecture, an
 
 These days I work with **Go, Scala, Python, React, and AWS** to build scalable services.
 
+Check out my latest project: [quizball.io](https://quizball.io)
 
 ---
 
