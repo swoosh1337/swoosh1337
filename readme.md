@@ -11,7 +11,6 @@ Check out what I'm building: [quizball.io](https://quizball.io) | [simplyalgo.de
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,scala,python,js,react,tailwind,docker,kubernetes,terraform,aws,postgresql,redis,kafka,grpc,git" alt="Languages & Tools" />
- align="center">
   <img src="https://img.shields.io/badge/PostHog-000?style=for-the-badge&logo=posthog&logoColor=yellow" alt="PostHog" />
   <img src="https://img.shields.io/badge/Customer.io-2B2D42?style=for-the-badge" alt="Customer.io" />
   <img src="https://img.shields.io/badge/A/B_Testing-4CAF50?style=for-the-badge" alt="A/B Testing" />
